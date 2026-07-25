@@ -1,0 +1,5 @@
+edge-tts
+playsound3
+pywin32
+sounddevice
+soundfile
